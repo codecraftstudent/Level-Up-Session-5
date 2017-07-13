@@ -1,0 +1,29 @@
+﻿{
+	"version": 1499968145,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/background-sheet0.png",
+		"images/player-sheet0.png",
+		"images/reversethrusters-sheet0.png",
+		"images/reversethrusters-sheet1.png",
+		"images/forwardthrusters-sheet0.png",
+		"images/rightthrusters-sheet0.png",
+		"images/rightthrusters-sheet1.png",
+		"images/leftthrusters-sheet0.png",
+		"images/leftthrusters-sheet1.png",
+		"images/leftthrusters-sheet2.png",
+		"images/boomboom-sheet0.png",
+		"images/enemy-sheet0.png",
+		"images/enemy-sheet1.png",
+		"images/enemy-sheet2.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
